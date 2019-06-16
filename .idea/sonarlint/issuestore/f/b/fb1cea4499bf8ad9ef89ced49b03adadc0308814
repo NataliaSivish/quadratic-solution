@@ -1,0 +1,16 @@
+
+8squid:S1220""Move this file to a named package.8î¤î€¶-
+[
+squid:S106+"9Replace this use of System.out or System.err by a logger.(‰±“Ûùÿÿÿÿ8Ø¶Õ¨µ-
+[
+squid:S106<"9Replace this use of System.out or System.err by a logger.(¥Þƒûúÿÿÿÿ8…úó¶-
+U
+squid:S1061"9Replace this use of System.out or System.err by a logger.(«äƒM8¨‚‚©µ-
+V
+squid:S106."9Replace this use of System.out or System.err by a logger.(€°ê¤8ßŒü¨µ-
+[
+squid:S1067"9Replace this use of System.out or System.err by a logger.(´Ä»Êûÿÿÿÿ8ƒ¨…©µ-
+dsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Âš6
+psquid:S00117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„…ñî8¼¿Ó©µ-
+V
+squid:S1064"9Replace this use of System.out or System.err by a logger.(´™ìÛ8ð ò¶-
